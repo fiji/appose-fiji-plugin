@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/apposed/appose-fiji-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/apposed/appose-fiji-plugin/actions/workflows/build.yml)
+
 # Appose Fiji Plugin Example
 
 An example Fiji plugin that demonstrates how to call native Python 
